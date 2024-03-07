@@ -28,7 +28,7 @@
   <a href="https://twitter.com/aaradhanashukla" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/feed/" target="_blank">
+  <a href="https://www.linkedin.com/in/aaradhana-shukla-a285b1197/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
@@ -36,8 +36,8 @@
 <!-- Languages and Tools -->
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  <img src="https://www.vectorlogo.zone/logos/html5/html5-icon.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/css-3/css-3-icon.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
