@@ -16,11 +16,11 @@
 <!-- About Me -->
 - 🌱 Currently learning **MERN Stack**
 
-- 💬 Ask me about **HTML, CSS, JS, MERN**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JS, MERN**
 
 - 📫 Reach me at [aaradhanashukla29@gmail.com](mailto:aaradhanashukla29@gmail.com)
 
-- 📄 [Resume](https://drive.google.com/file/d/17GVMh4S530ql0i8QhTn2fKM8owVKKQzB/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/12cnSdcXU0X7a3quVdq8zqqo2GnQQakpu/view?usp=sharing)
 
 <!-- Connect with Me -->
 <h3 align="center">Connect with Me:</h3>
